@@ -1,1 +1,0 @@
-This is a sample article. This article is for testing the Node.js script. The script will analyze this article and provide some statistics.

@@ -1,4 +1,0 @@
-Sumă: 150
-    Medie: 25
-    Minim: 0
-    Maxim: 50
